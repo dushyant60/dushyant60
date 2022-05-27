@@ -2,7 +2,7 @@
 
 🕹 I’m currently working on Random Projects.
 
-✍ I’m currently learning Everything About AI, ML, Cloud and Java.
+✍ I’m currently learning Everything About AI, ML, Cloud, Web Development and Python
 
 💭 Ask me anything about Anime.
 
