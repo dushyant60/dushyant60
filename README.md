@@ -12,13 +12,13 @@
 
 ### Connect with me:
 
-[<img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659684087~hmac=157fbf37ee3af731c348d4727f7bffb7" alt="Linked IN" width="30"/>](https://www.linkedin.com/in/dushyant-singh-246b04219/)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked IN" width="30"/>](https://www.linkedin.com/in/dushyant-singh-246b04219/)
 &nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30"/>](https://twitter.com/Dushyant_Som_)
 &nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30"/>](https://www.instagram.com/dushyant__som/)
 &nbsp;&nbsp;
-[<img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178285.png?token=exp=1659684142~hmac=d6a6d4d8b22a7dd8edaa45423ac75292" alt="Website" width="30"/>](https://dushyant60.github.io/Portfolio/)
+[<img src="https://cdn-icons-png.flaticon.com/512/5045/5045810.png" alt="Website" width="30"/>](https://dushyant60.github.io/Portfolio/)
 
 ---
 
