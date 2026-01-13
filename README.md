@@ -2,7 +2,7 @@
 
 🕹 I’m currently working on Random Projects.
 
-✍ I’m currently learning Everything About Web Development, AI-ML and Cloud.
+✍ I’m currently learning Everything About Agentic AI, Generative AIand Cloud.
 
 💭 Ask me anything about Anime.
 <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e471kbfv57ws0f9ma4bmz91m0otv1oh2b2mek937fmm&rid=giphy.gif&ct=s" width="300" align='right' >
