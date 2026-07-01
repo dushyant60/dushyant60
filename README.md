@@ -14,7 +14,7 @@
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked IN" width="30"/>](https://www.linkedin.com/in/dushyant-singh-246b04219/)
 &nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/5045/5045810.png" alt="Website" width="30"/>](https://dushyant60.github.io/Portfolio/)
+[<img src="https://cdn-icons-png.flaticon.com/512/5045/5045810.png" alt="Website" width="30"/>]([https://dushyant60.github.io/Portfolio/](https://dushyant-singh.vercel.app/))
 
 ---
 
